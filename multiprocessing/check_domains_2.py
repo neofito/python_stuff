@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-http://www.ibm.com/developerworks/aix/library/au-multiprocessing/
-http://stackoverflow.com/questions/2359253/solving-embarassingly-parallel-problems-using-python-multiprocessing
-
 Benchmarks (para 161 dominios):
 23:13:41,52 | 7:34:29,07
 23:15:22,16 | 7:36:45,57

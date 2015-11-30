@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-http://www.ibm.com/developerworks/aix/library/au-multiprocessing/
-http://stackoverflow.com/questions/2359253/solving-embarassingly-parallel-problems-using-python-multiprocessing
 """
 import requests
 import csv
